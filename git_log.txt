@@ -1,0 +1,8 @@
+﻿* 9c17e75 - Luka Tasetovic, 3 minutes ago : Task1_deliverable_2
+* abc825f - Luka Tasetovic, 2 days ago : Task1_not_complete_yet
+* c25582f - Luka Tasetovic, 4 days ago : Add git log
+* 900d8d4 - Luka Tasetovic, 4 days ago : Add data generation script
+* c7932e9 - Luka Tasetovic, 4 days ago : Add requirements.txt
+* 93e61a4 - Luka Tasetovic, 4 days ago : Add .gitignore
+* 0ecec7b - Bredeaa, 6 days ago : Create requirements.txt
+* c718e87 - Bredeaa, 6 days ago : Initial commit
